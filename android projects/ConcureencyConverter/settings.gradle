@@ -1,0 +1,2 @@
+rootProject.name = "Concureency Converter"
+include ':app'

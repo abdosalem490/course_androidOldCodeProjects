@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "446460187828",
+    "project_id": "intro-firestore-e226d",
+    "storage_bucket": "intro-firestore-e226d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446460187828:android:59a6db2ef7cf5ce0ce33e1",
+        "android_client_info": {
+          "package_name": "com.abdosalm.introfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446460187828-1tp8k20ag0luafgt3uuhba07rf1voi1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMs3FrwwF6BNmUVobBFvo6U9_0GJrc4hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446460187828-1tp8k20ag0luafgt3uuhba07rf1voi1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

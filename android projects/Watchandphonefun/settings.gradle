@@ -1,0 +1,2 @@
+rootProject.name = "Watch and phone fun"
+include ':app'

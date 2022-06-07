@@ -1,0 +1,2 @@
+rootProject.name = "Downloading Images"
+include ':app'

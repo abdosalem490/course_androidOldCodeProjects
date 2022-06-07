@@ -1,0 +1,2 @@
+rootProject.name = "Wear Notification Demo"
+include ':app'

@@ -1,0 +1,2 @@
+rootProject.name = "Faddin Animation"
+include ':app'

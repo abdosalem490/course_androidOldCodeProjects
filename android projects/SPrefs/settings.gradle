@@ -1,0 +1,2 @@
+rootProject.name = "SPrefs"
+include ':app'

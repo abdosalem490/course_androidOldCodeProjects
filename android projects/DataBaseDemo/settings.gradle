@@ -1,0 +1,2 @@
+rootProject.name = "DataBase Demo"
+include ':app'

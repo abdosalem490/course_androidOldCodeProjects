@@ -1,0 +1,37 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <color name="primary">@color/md_teal_500</color>
+    <color name="primary_dark">@color/md_teal_700</color>
+    <color name="primary_light">@color/md_teal_100</color>
+    <color name="accent">@color/md_brown_500</color>
+    <color name="primary_text">@color/md_grey_900</color>
+    <color name="secondary_text">@color/md_grey_600</color>
+    <color name="icons">@color/md_white_1000</color>
+    <color name="divider">@color/md_grey_400</color>
+    <style name="Theme.FlickrBrowser" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/accent</item>
+        <item name="android:textColorSecondary">@color/secondary_text</item>
+        <item name="android:icon">@color/icons</item>
+        <item name="android:windowBackground">@color/primary_light</item>
+        <item name="cardBackgroundColor">@color/primary</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/primary_light</item>
+        <item name="colorSecondaryVariant">@color/divider</item>
+        <item name="colorOnSecondary">@color/secondary_text</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.FlickrBrowser.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.FlickrBrowser.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.FlickrBrowser.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>

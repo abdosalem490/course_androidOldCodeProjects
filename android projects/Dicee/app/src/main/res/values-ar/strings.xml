@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">انا تطبيق</string>
+    <string name="buttonText">ارمى</string>
+    <string name="todo">يجب عمله</string>
+</resources>

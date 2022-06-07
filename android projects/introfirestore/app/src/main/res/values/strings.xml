@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">intro firestore</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="save">save</string>
+    <string name="enter_thoughts">Enter Thoughts</string>
+    <string name="show_datatext">Show Data</string>
+    <string name="show_updatedata">update all</string>
+    <string name="show_delete_thought">Delete Thought</string>
+</resources>

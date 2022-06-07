@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/notification"
+        android:icon="@drawable/notification_icon"
+        android:title="@string/notification_menu"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/copyRights"
+        android:title="@string/copy_rights" />
+    <item
+        android:id="@+id/logOut"
+        android:title="@string/logout" />
+</menu>

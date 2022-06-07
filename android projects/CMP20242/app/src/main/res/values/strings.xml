@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">CMP2024</string>
+    <string name="background">background</string>
+    <string name="sign_in_as_random_user">Sign in as random user</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_in_as_admin"><b>OR</b>\nSign in as admin</string>
+    <string name="login">Login</string>
+    <string name="enter_user_name">User Name</string>
+    <string name="enter_password">Password</string>
+    <string name="ground">TODO</string>
+    <string name="notification_menu">notifications</string>
+    <string name="copy_rights">Copy Rights</string>
+    <string name="logout">Log out</string>
+    <string name="copy_rights_text">all Rights reserved for abdo.hanaka\u00A9 2024\n
+                                    contact : <a href="abdosalm555@gmail.com">abdosalm555@gmail.com</a>\n
+                                    youtube channel : <a href="https://www.youtube.com/channel/UCzfpGoidsb2bVK-HyvZJVKg">https://www.youtube.com/channel/UCzfpGoidsb2bVK-HyvZJVKg</a>\n
+                                    facebook account : <a href="https://www.facebook.com/abdosalm555">https://www.facebook.com/abdosalm555</a>\n
+                                    if you have any problems contact shoflak_kalba@gmail.com</string>
+    <string name="todo">TODO</string>
+
+    //for recycler view in main_view layout
+    <string-array name="features">
+        <item>youtube playlists</item>
+        <item>announcements</item>
+        <item>Assignment &amp;\nquizzes</item>
+        <item>wanted for\njustice</item>
+    </string-array>
+
+    <string name="youtube_channels">Youtube playlists</string>
+    <string name="youtube_activity_title">you can find youtube channel in the next link : https://www.youtube.com/channel/UCzfpGoidsb2bVK-HyvZJVKg</string>
+</resources>

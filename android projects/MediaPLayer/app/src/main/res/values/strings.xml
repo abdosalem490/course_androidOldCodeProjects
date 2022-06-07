@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MediaPLayer</string>
+    <string name="enter_name">Enter Something</string>
+    <string name="save">Save</string>
+</resources>

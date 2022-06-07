@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android projects/CMP20242/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.21614583333333334" />
+        <entry key="..\:/android projects/CMP20242/app/src/main/res/drawable/divider.xml" value="0.2708333333333333" />
+        <entry key="..\:/android projects/CMP20242/app/src/main/res/drawable/ic_icon.xml" value="0.2708333333333333" />
+        <entry key="..\:/android projects/CMP20242/app/src/main/res/layout/activity_login.xml" value="0.268" />
+        <entry key="..\:/android projects/CMP20242/app/src/main/res/layout/activity_main.xml" value="0.24592391304347827" />
+        <entry key="..\:/android projects/CMP20242/app/src/main/res/layout/activity_main_view.xml" value="0.2223731884057971" />
+        <entry key="..\:/android projects/CMP20242/app/src/main/res/layout/activity_youtube.xml" value="0.2" />
+        <entry key="..\:/android projects/CMP20242/app/src/main/res/layout/copy_rights_layout.xml" value="0.36" />
+        <entry key="..\:/android projects/CMP20242/app/src/main/res/layout/main_view_row.xml" value="0.20652173913043478" />
+        <entry key="..\:/android projects/CMP20242/app/src/main/res/layout/youtube_actuvuty_parent_row.xml" value="0.44000000000000006" />
+        <entry key="..\:/android projects/CMP20242/app/src/main/res/menu/main_view_menu.xml" value="0.2546875" />
+        <entry key="..\:/android projects/CMP20242/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2708333333333333" />
+        <entry key="..\:/android projects/CMP20242/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.21614583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android projects/blog/app/src/main/res/drawable/input_outline.xml" value="0.2708333333333333" />
+        <entry key="..\:/android projects/blog/app/src/main/res/layout/activity_add_post.xml" value="0.2546875" />
+        <entry key="..\:/android projects/blog/app/src/main/res/layout/activity_create_account.xml" value="0.240625" />
+        <entry key="..\:/android projects/blog/app/src/main/res/layout/activity_main.xml" value="0.268" />
+        <entry key="..\:/android projects/blog/app/src/main/res/layout/activity_post_list.xml" value="0.2546875" />
+        <entry key="..\:/android projects/blog/app/src/main/res/layout/post_row.xml" value="0.2546875" />
+        <entry key="..\:/android projects/blog/app/src/main/res/menu/main_menu.xml" value="0.2546875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dicee</string>
+    <string name="buttonText">Roll</string>
+    <string name="todo">TODO</string>
+</resources>

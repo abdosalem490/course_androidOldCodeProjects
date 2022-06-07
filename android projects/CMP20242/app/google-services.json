@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "327566573625",
+    "project_id": "cmp2024-e0ac0",
+    "storage_bucket": "cmp2024-e0ac0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327566573625:android:d557a5b5162cf63d3a4de8",
+        "android_client_info": {
+          "package_name": "com.abdosalm.cmp2024"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327566573625-n8966i41oqncgiglg7era6crrpvtena1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1ETHMFr8xwXBeS9ycUV8qQsHL6AMkhPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327566573625-n8966i41oqncgiglg7era6crrpvtena1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

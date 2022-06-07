@@ -1,0 +1,2 @@
+rootProject.name = "SplitScreen Demo"
+include ':app'
